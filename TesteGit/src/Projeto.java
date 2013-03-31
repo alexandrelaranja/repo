@@ -1,5 +1,5 @@
 /**
-Adicionando comentário a classe Projeto
+* Adicionando comentário a classe Projeto
 */
 
 public class Projeto {
