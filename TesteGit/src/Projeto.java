@@ -1,3 +1,6 @@
+/**
+Adicionando comentário a classe Projeto
+*/
 
 public class Projeto {
 	private String descricao;
