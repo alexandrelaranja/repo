@@ -1,5 +1,6 @@
 /**
 * Adicionando comentário a classe Projeto
+* Este comentário será compartilhado com o professor José Serafini, que poderá fazer alterações no código.
 */
 
 public class Projeto {
